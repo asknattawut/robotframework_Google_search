@@ -2,4 +2,4 @@
 
 This is a Standard Robot Framework Template to search Google "Hello World".
 
-To do this in the framework requires RPA.Browser.Selenium library. (See robot file)
+To do this in the framework requires RPA.Browser.Selenium library. (See inside the tasks.robot file)
