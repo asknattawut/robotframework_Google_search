@@ -1,13 +1,5 @@
-# Template: Standard Robot Framework
+# Standard Robot Framework Template: search Google "Hello World".
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+This is a Standard Robot Framework Template to search Google "Hello World".
 
-This template robot:
-
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+This framework requires RPA.Browser.Selenium library.
